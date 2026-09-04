@@ -62,13 +62,16 @@ after August 2026, ensuring they were excluded from both our training and valida
 ```
 
 ---
+
 `Example.csv` is a **protein sequence description file**, which must contain at least two columns with header **proteinID** 
 and **sequence**, corresponding to your protein name/code/id and its sequence in single letter.
 
 ---
+
 `ExamplePair.csv` is a **protein pair description file**, which must contain at least two columns with header 
 **proteinIDA** and **proteinIDB**, corresponding to the PPI you would like to investigate. **proteinIDA** & 
 **proteinIDB** must be aligned with the **proteinID** in your **protein sequence description file**.
+
 ---
 
 This section demonstrates how to extract the protein vectors for protein chains in `Example.csv`, 
