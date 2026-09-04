@@ -1,0 +1,15 @@
+﻿proteinIDA,proteinIDB,Type
+43NO-ABEF,43NO-CDGH,Positive
+9RON-A,9RON-C,Positive
+9RON-A,9RON-B,Positive
+37HF-AC,37HF-BD,Positive
+22QT-ABC,22QT-DE,Positive
+10DW-A,10DW-C,Positive
+10DW-C,10DW-B,Positive
+22QT-ABC,37HF-BD,Negative
+37HF-AC,9RON-A,Negative
+22QT-DE,43NO-CDGH,Negative
+43NO-ABEF,37HF-BD,Negative
+9RON-B,9RON-C,Negative
+10DW-A,9RON-B,Negative
+10DW-B,43NO-ABEF,Negative
